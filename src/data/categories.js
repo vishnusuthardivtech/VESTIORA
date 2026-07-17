@@ -1,0 +1,20 @@
+export const categories = [
+  'Designer Fabrics',
+  'Embroidery Fabrics',
+  'Sequins Fabrics',
+  'Fancy Fabrics',
+  'Party Wear Fabrics',
+  'Ethnic Wear Fabrics',
+  'Wholesale Fabric Supplier',
+  'Heavy Work Collection',
+  'Wedding Collection',
+  'Pastel Collection',
+  'Traditional Collection',
+  'Festive Collection',
+  'Geometric Collection',
+  'Floral Collection',
+  'Mirror Work',
+  'Thread Work',
+  'Modern Collection',
+]
+

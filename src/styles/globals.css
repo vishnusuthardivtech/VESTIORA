@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+
+:root {
+  --brand-royal-blue: #1d4ed8;
+  --brand-white: #ffffff;
+  --brand-silver: #d1d5db;
+  --brand-soft-gray: #f3f4f6;
+  --brand-very-light-blue: #e7f0ff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #ffffff;
+}
+
