@@ -5,7 +5,7 @@ const image = (id, width = 1400) => `https://images.unsplash.com/${id}?auto=form
 const base = import.meta.env.BASE_URL
 
 export const collections = [
-  { id: 'digital-print', name: 'Digital Print', fabricType: 'Premium Kurta Fabric', cover: `${base}images/home/digital_print.jpg`, images: [`${base}images/home/digital_print.jpg`, `${base}images/home/digital_print.jpg`, `${base}images/home/digital_print.jpg`] },
+  // { id: 'digital-print', name: 'Digital Print', fabricType: 'Premium Kurta Fabric', cover: `${base}images/home/digital_print.jpg`, images: [`${base}images/home/digital_print.jpg`, `${base}images/home/digital_print.jpg`, `${base}images/home/digital_print.jpg`] },
   { id: 'embroidery', name: 'Embroidery', fabricType: 'Embroidered Kurta Fabric', cover: `${base}images/home/emboraidry_work.jpg`, images: [`${base}images/home/emboraidry_work.jpg`, `${base}images/home/emboraidry_work.jpg`, `${base}images/home/emboraidry_work.jpg`] },
   { id: 'cotton', name: 'Cotton', fabricType: 'Premium Cotton Kurta Fabric', cover: `${base}images/home/cotton.webp`, images: [`${base}images/home/cotton.webp`, `${base}images/home/cotton.webp`, `${base}images/home/cotton.webp`] },
   { id: 'rayon', name: 'Rayon', fabricType: 'Rayon Kurta Fabric', cover: `${base}images/home/rayon.webp`, images: [`${base}images/home/rayon.webp`, `${base}images/home/rayon.webp`, `${base}images/home/rayon.webp`] },
